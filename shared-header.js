@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 </button>
                 <div class="dropdown-content" style="display: none; position: absolute; left: 50%; transform: translateX(-50%); min-width: 180px; z-index: 1001; padding-top: 8px;">
                     <div style="background-color: #ffffff; box-shadow: 0px 8px 16px rgba(0,0,0,0.15); border-radius: 4px; overflow: hidden;">
-                        <a href="https://chigkirta-oss.github.io/ur20-fscc-manual/" style="color: #333; padding: 12px 16px; text-decoration: none; display: block; font-size: 13px; text-align: left; border-bottom: 1px solid #eee;">CC-Link IE TSN編</a>
+                        <a href="https://chigkirta-oss.github.io/ur20-fscc-manual/" style="color: #333; padding: 12px 16px; text-decoration: none; display: block; font-size: 13px; text-align: left; border-bottom: 1px solid #eee;">CC-Link IE TSN Safety編</a>
                         <a href="https://chigkirta-oss.github.io/ur20-eip-manual/" style="color: #333; padding: 12px 16px; text-decoration: none; display: block; font-size: 13px; text-align: left;">EtherNet/IP編</a>
                     </div>
                 </div>
