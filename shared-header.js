@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 </button>
                 <div class="dropdown-content" style="display: none; position: absolute; left: 50%; transform: translateX(-50%); min-width: 180px; z-index: 1001; padding-top: 8px;">
                     <div style="background-color: #ffffff; box-shadow: 0px 8px 16px rgba(0,0,0,0.15); border-radius: 4px; overflow: hidden;">
-                        <a href="#" style="color: #333; padding: 12px 16px; text-decoration: none; display: block; font-size: 13px; text-align: left; border-bottom: 1px solid #eee;">KV-8000 EtherNet/IP編</a>
+                        <a href="#" style="color: #333; padding: 12px 16px; text-decoration: none; display: block; font-size: 13px; text-align: left; border-bottom: 1px solid #eee;">KV-7500/8000 EtherNet/IP編</a>
                         
                     </div>
                 </div>
